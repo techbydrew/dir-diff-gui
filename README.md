@@ -12,7 +12,7 @@ This is useful when:
 
 ---
 
-![Directory Diff Screenshot 1](Directory Diff 1.png)
+<img width="902" height="682" alt="image" src="https://github.com/user-attachments/assets/d1b36697-9172-4e49-bfbb-e13f62438289" />
 
 ## Features
 - GUI — no CLI knowledge required
@@ -28,8 +28,9 @@ This is useful when:
 ---
 
 ## Screenshot
-![Directory Diff Screenshot 2](Directory DIff Text.png)
-![Directory Diff Screenshot 3](Directory Diff JSON.png)
+<img width="902" height="682" alt="image" src="https://github.com/user-attachments/assets/1beb395e-e683-4989-bd6e-7f23af3648fa" />
+<img width="902" height="682" alt="image" src="https://github.com/user-attachments/assets/f91c2dda-c233-454d-a082-0dc5daa971cc" />
+
 
 ---
 
