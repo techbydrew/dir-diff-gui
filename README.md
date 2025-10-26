@@ -12,6 +12,8 @@ This is useful when:
 
 ---
 
+![Directory Diff Screenshot 1](Directory Diff 1.png)
+
 ## Features
 - GUI — no CLI knowledge required
 - Compares two folders recursively
@@ -26,7 +28,8 @@ This is useful when:
 ---
 
 ## Screenshot
-> _insert screenshot here after first run_
+![Directory Diff Screenshot 2](Directory DIff Text.png)
+![Directory Diff Screenshot 3](Directory Diff JSON.png)
 
 ---
 
